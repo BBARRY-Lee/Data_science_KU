@@ -1,0 +1,29 @@
+Universal Bank Data Fields
+
+ID : 고객번호
+
+Personal Loan : 고객이 개인대출을 받았는가? (1=Yes, 0=No)
+
+Age : 고객나이
+
+Experience : 직장경험 (연도)
+
+Income : 연간수입 ($000)
+
+Zip code: 우편번호
+
+Family : 가족구성수
+
+CCAvg : 신용카드 월평균 이용금액 ($000)
+
+Education: 학력 ((1) undergraduate, (2) graduate, (3) advanced/professional)
+
+Mortgage :주택담보대출금액 ($000)
+
+Securities : 보험유무 ? (1=Yes, 0=No)
+
+CDAccount : 양도성 예금증서 보유 유무? (1=Yes, 0=No)
+
+Online : 온라인뱅킹 사용 유무? (1=Yes, 0=No)
+
+CreditCard : 신용카드 보유 여부? (1=Yes, 0=No)
